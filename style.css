@@ -4,7 +4,7 @@ nav {
   right: 250px;
 }
 
-nav li {
+div a {
   display: inline;
   position: auto;
   margin: 0 0 0 20px;
