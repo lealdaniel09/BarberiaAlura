@@ -19,3 +19,11 @@ nav li:hover {
   text-decoration: initial;
   color: dodgerblue;
 }
+h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  background: url(imagenes/bg.jpg);
+  padding: 40px;
+}
