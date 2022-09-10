@@ -15,7 +15,7 @@ div a {
   font-style: italic;
 }
 
-nav li:hover {
+div a:hover {
   text-decoration: initial;
   color: dodgerblue;
 }
